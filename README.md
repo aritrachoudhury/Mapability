@@ -9,7 +9,7 @@ Designed and developed a mapping software using C++ using the OpeStreetMap datab
 
 ## Milestones
 The following milestones were successfully achieved by the team to successfully implment Mapability:
-1. Using and Creating Efficient APIS
+1. Using and Creating Efficient APIs
 - Created new API functions from a library called libstreetdatabase that allows us to query geographic information database files for multiple cities
 - Used STL data structures such as vectors and maps, and chose appropriate data strcutures to speed up an API
 - Used unit tests to test our code
